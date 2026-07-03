@@ -6,3 +6,5 @@ data/processed/
 models/*.pt
 !data/raw/.gitkeep
 .DS_Store
+.claude
+
